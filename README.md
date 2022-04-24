@@ -1,5 +1,6 @@
 # WaveStep
- WaveStep- A Desktop App to control your device using Hand Gestures <br/>
+ WaveStep- A Desktop App to control your device using Hand Gestures
+ 
 What If you wanted to decrease the volume or increase the brightness of your laptop without touching the mouse? WaveStep makes it easy. Here, when the app opens, It'll authorize your identity at first by scanning your face. Once the authorization is done, the app opens and lets you control your device using your hand gestures.
 It uses Real-Time Image recognition technology hence making it Faster & Smooth. <br/>
 Advantages? <br/>
